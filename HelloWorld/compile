@@ -1,0 +1,1 @@
+nvcc --gpu-architecture=sm_50 helloWorld_example.cu -o helloWorld_example

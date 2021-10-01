@@ -1,0 +1,4 @@
+g++ -O3 -std=c++11 vectorAdd_example.cpp -o vectorAdd_example
+# nvcc vectorAdd_Simple.cu -o vectorAdd_Simple
+# nvcc vectorAdd_Thread.cu -o vectorAdd_Thread
+# nvcc vectorAdd_Grid.cu -o vectorAdd_Grid

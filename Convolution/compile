@@ -1,0 +1,2 @@
+g++ -std=c++14 convolution.cpp -o convolution
+# nvcc --gpu-architecture=sm_50 convolution.cu -o convolution

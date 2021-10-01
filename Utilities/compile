@@ -1,0 +1,2 @@
+nvcc bandwidthTest.cu -o bandwidthTest -I"./"
+nvcc deviceQuery.cpp -o deviceQuery -I"./"

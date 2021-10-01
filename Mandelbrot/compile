@@ -1,0 +1,3 @@
+g++ -O3 -std=c++11 mandelbrot_cpu_example.cpp -o mandelbrot_cpu_example
+# nvcc -std=c++11 --gpu-architecture=sm_50 mandelbrot_gpu_todo.cu -o mandelbrot_gpu_todo
+# nvcc -std=c++11 --gpu-architecture=sm_50 mandelbrot_gpu.cu -o mandelbrot_gpu
