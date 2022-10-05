@@ -1,8 +1,8 @@
-# TP GPU INSA
+# TP GPU CSM
 # session 2022
 # Document écrit par Scalian DS Rennes par :
 # Benjamin Camus  : benjamin.camus@scalian.com
 # Franck Ginguené : franck.ginguene@scalian.com
 
-# Responsable INSA : 
-# Nikos Parlavantzas : nikos.parlavantzas@irisa.fr
+# Responsable CSM : 
+# Mariko Dunseath-Terao : mariko.dunseath-terao@univ-rennes1.fr
